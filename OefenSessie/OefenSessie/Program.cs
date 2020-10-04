@@ -41,10 +41,12 @@ namespace OefenSessie
             //Console.WriteLine(oef8.AlgoAcht("Ha"));
 
             //OEF9
-            Oefening9 oef9 = new Oefening9();
-            Console.WriteLine(oef9.AlgoNegen("1"));
+            //Oefening9 oef9 = new Oefening9();
+            //Console.WriteLine(oef9.AlgoNegen("1"));
 
             //OEF10
+            Oefening10 oef10 = new Oefening10();
+            Console.WriteLine(oef10.AlgoTien(4));
 
             //OEF11
 
