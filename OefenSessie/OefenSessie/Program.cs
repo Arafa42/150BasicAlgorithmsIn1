@@ -45,10 +45,12 @@ namespace OefenSessie
             //Console.WriteLine(oef9.AlgoNegen("1"));
 
             //OEF10
-            Oefening10 oef10 = new Oefening10();
-            Console.WriteLine(oef10.AlgoTien(4));
+            //Oefening10 oef10 = new Oefening10();
+            //Console.WriteLine(oef10.AlgoTien(4));
 
             //OEF11
+            Oefening11 oef11 = new Oefening11();
+            Console.WriteLine(oef11.AlgoElf("JS"));
 
             //OEF12
 
