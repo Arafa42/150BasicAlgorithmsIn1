@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arafa\\OneDrive\\Bureaublad\\DESKTOP\\OefenSessie\\OefenSessie\\OefenSessie.csproj": {}
+    "C:\\Users\\arafa\\OneDrive\\Documenten\\GitHub\\150BasicAlgorithmsIn1\\OefenSessie\\OefenSessie\\OefenSessie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arafa\\OneDrive\\Bureaublad\\DESKTOP\\OefenSessie\\OefenSessie\\OefenSessie.csproj": {
+    "C:\\Users\\arafa\\OneDrive\\Documenten\\GitHub\\150BasicAlgorithmsIn1\\OefenSessie\\OefenSessie\\OefenSessie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arafa\\OneDrive\\Bureaublad\\DESKTOP\\OefenSessie\\OefenSessie\\OefenSessie.csproj",
+        "projectUniqueName": "C:\\Users\\arafa\\OneDrive\\Documenten\\GitHub\\150BasicAlgorithmsIn1\\OefenSessie\\OefenSessie\\OefenSessie.csproj",
         "projectName": "OefenSessie",
-        "projectPath": "C:\\Users\\arafa\\OneDrive\\Bureaublad\\DESKTOP\\OefenSessie\\OefenSessie\\OefenSessie.csproj",
+        "projectPath": "C:\\Users\\arafa\\OneDrive\\Documenten\\GitHub\\150BasicAlgorithmsIn1\\OefenSessie\\OefenSessie\\OefenSessie.csproj",
         "packagesPath": "C:\\Users\\arafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arafa\\OneDrive\\Bureaublad\\DESKTOP\\OefenSessie\\OefenSessie\\obj\\",
+        "outputPath": "C:\\Users\\arafa\\OneDrive\\Documenten\\GitHub\\150BasicAlgorithmsIn1\\OefenSessie\\OefenSessie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
